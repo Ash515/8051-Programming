@@ -1,0 +1,6 @@
+MOV A,P0 
+MOV R0,P1 
+MOV B,R0 
+ADD A,B 
+MOV P2,A 
+END
