@@ -1,0 +1,6 @@
+MOV A,P0 
+MOV R0,P1 
+MOV B,R0 
+DIV AB 
+MOV P2,A 
+END
