@@ -1,0 +1,5 @@
+MOV A,P0 
+CPL A 
+ADD A,01 
+MOV P1,A 
+END
